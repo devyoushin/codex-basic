@@ -14,6 +14,9 @@ Codex CLI를 **레포 작업(분석 → 수정 → 검증 → 커밋/푸시)**�
 - `codex-guide.md` — Codex CLI 핵심 개념/워크플로
 - `workflows.md` — 자주 쓰는 워크플로 예시(디버그/문서/리팩터)
 - `dual-setup.md` — Claude/Codex 공존 세팅 가이드
+- `cheatsheet.md` — 자주 쓰는 명령/패턴 모음
+- `patch-cookbook.md` — `apply_patch` 예제 모음
+- `sandbox-escalation.md` — 승인(에스컬레이션) 가이드
 - `advanced-techniques.md` — 고급 패턴(속도/안전/품질)
 - `rules/` — 규칙 모음(명령/패치/테스트/커뮤니케이션)
 - `templates/` — 반복 작업용 템플릿

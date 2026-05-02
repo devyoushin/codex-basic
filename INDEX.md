@@ -16,6 +16,9 @@
 - `codex-guide.md` — 핵심 개념/워크플로
 - `workflows.md` — 작업 유형별 예시
 - `dual-setup.md` — Claude/Codex 공존 운영
+- `cheatsheet.md` — 명령/패턴 치트시트
+- `patch-cookbook.md` — `apply_patch` 예제
+- `sandbox-escalation.md` — 승인/권한 감각
 - `advanced-techniques.md` — 고급 활용(속도/품질/안전)
 
 ---
