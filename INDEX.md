@@ -7,19 +7,19 @@
 ## 0. 먼저 볼 것
 
 - `AGENTS.md` — 이 폴더에서 Codex가 따라야 하는 규칙(가장 중요)
-- `codex-guide.md` — Codex CLI 개념 + 표준 작업 흐름
+- `guides/codex-guide.md` — Codex CLI 개념 + 표준 작업 흐름
 
 ---
 
 ## 1. 가이드
 
-- `codex-guide.md` — 핵심 개념/워크플로
-- `workflows.md` — 작업 유형별 예시
-- `dual-setup.md` — Claude/Codex 공존 운영
-- `cheatsheet.md` — 명령/패턴 치트시트
-- `patch-cookbook.md` — `apply_patch` 예제
-- `sandbox-escalation.md` — 승인/권한 감각
-- `advanced-techniques.md` — 고급 활용(속도/품질/안전)
+- `guides/codex-guide.md` — 핵심 개념/워크플로
+- `guides/workflows.md` — 작업 유형별 예시
+- `guides/dual-setup.md` — Claude/Codex 공존 운영
+- `guides/cheatsheet.md` — 명령/패턴 치트시트
+- `guides/patch-cookbook.md` — `apply_patch` 예제
+- `guides/sandbox-escalation.md` — 승인/권한 감각
+- `guides/advanced-techniques.md` — 고급 활용(속도/품질/안전)
 
 ---
 
