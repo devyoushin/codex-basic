@@ -28,8 +28,8 @@ git commit -m "fix: handle <case>" -m "AI-Assistant: Codex"
 - 템플릿 선택 → 내용 채우기 → 명령/예제 실행 가능성 점검 → 링크/목차 정리
 
 템플릿:
-- `templates/change-request.md`
-- `templates/debug-runbook.md`
+- `docs/templates/change-request.md`
+- `docs/templates/debug-runbook.md`
 
 ## 3) 리팩터링(조심스럽게)
 
@@ -38,5 +38,5 @@ git commit -m "fix: handle <case>" -m "AI-Assistant: Codex"
 - 단계별로 테스트/검증 포인트 포함
 
 복붙용 프롬프트:
-- `agents/refactor-planner.md`
+- `docs/agents/refactor-planner.md`
 

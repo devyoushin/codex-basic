@@ -21,7 +21,7 @@ git blame -n path/to/file
 ## 변경(쓰기)
 
 - 파일 수정은 `apply_patch`로 “작게, 한 의도씩”
-- 새 파일은 템플릿부터(`templates/`)
+- 새 파일은 템플릿부터(`docs/templates/`)
 
 ## 검증(테스트)
 
@@ -44,8 +44,8 @@ git push
 
 ## 자주 쓰는 프롬프트(복붙)
 
-- 버그 수정 루프: `agents/bugfixer.md`
-- 문서 작성: `agents/doc-writer.md`
-- 리팩터링 계획: `agents/refactor-planner.md`
-- 테스트 작성: `agents/test-writer.md`
+- 버그 수정 루프: `docs/agents/bugfixer.md`
+- 문서 작성: `docs/agents/doc-writer.md`
+- 리팩터링 계획: `docs/agents/refactor-planner.md`
+- 테스트 작성: `docs/agents/test-writer.md`
 

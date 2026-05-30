@@ -24,12 +24,12 @@
 - 해결: 최소 수정
 - 방지: 테스트/가드/문서
 
-`templates/debug-runbook.md` 사용.
+`docs/templates/debug-runbook.md` 사용.
 
 ## 5) 작업 흔적을 “재사용 가능한 자산”으로 남기기
 
 - 같은 문제가 다시 나오면:
-  - `rules/`에 규칙 추가
-  - `templates/`에 템플릿 추가
+  - `docs/rules/`에 규칙 추가
+  - `docs/templates/`에 템플릿 추가
   - `ops/log.md`에 세션 로그 추가
 

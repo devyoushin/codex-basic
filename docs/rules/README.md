@@ -1,4 +1,4 @@
-# rules/ — Codex 운영 규칙
+# docs/rules/ — Codex 운영 규칙
 
 이 폴더는 Codex를 “안전하고 예측 가능하게” 쓰기 위한 규칙 모음입니다.
 

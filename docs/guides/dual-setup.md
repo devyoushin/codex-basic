@@ -6,7 +6,7 @@
 
 ## 추천 구조
 
-- 공용: `docs/`, `templates/`, `rules/`(문서 스타일/네이밍/보안 등)
+- 공용: `docs/`, `docs/templates/`, `docs/rules/`(문서 스타일/네이밍/보안 등)
 - Claude 진입점: `CLAUDE.md` (+ 필요 시 `.claude/`)
 - Codex 진입점: `AGENTS.md` (폴더별로 더 세분화 가능)
 

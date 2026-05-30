@@ -42,6 +42,6 @@ AI-Assistant: Codex
 - 체크리스트/규칙은 번호 또는 불릿으로 간결히
 
 참조:
-- `rules/` 전체
-- `templates/` 템플릿
+- `docs/rules/` 전체
+- `docs/templates/` 템플릿
 
