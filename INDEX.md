@@ -7,19 +7,19 @@
 ## 0. 먼저 볼 것
 
 - `AGENTS.md` — 이 폴더에서 Codex가 따라야 하는 규칙(가장 중요)
-- `guides/codex-guide.md` — Codex CLI 개념 + 표준 작업 흐름
+- `docs/codex-guide.md` — Codex CLI 개념 + 표준 작업 흐름
 
 ---
 
 ## 1. 가이드
 
-- `guides/codex-guide.md` — 핵심 개념/워크플로
-- `guides/workflows.md` — 작업 유형별 예시
-- `guides/dual-setup.md` — Claude/Codex 공존 운영
-- `guides/cheatsheet.md` — 명령/패턴 치트시트
-- `guides/patch-cookbook.md` — `apply_patch` 예제
-- `guides/sandbox-escalation.md` — 승인/권한 감각
-- `guides/advanced-techniques.md` — 고급 활용(속도/품질/안전)
+- `docs/codex-guide.md` — 핵심 개념/워크플로
+- `docs/workflows.md` — 작업 유형별 예시
+- `docs/dual-setup.md` — Claude/Codex 공존 운영
+- `docs/cheatsheet.md` — 명령/패턴 치트시트
+- `docs/patch-cookbook.md` — `apply_patch` 예제
+- `docs/sandbox-escalation.md` — 승인/권한 감각
+- `docs/advanced-techniques.md` — 고급 활용(속도/품질/안전)
 
 ---
 
@@ -43,8 +43,8 @@
 
 ---
 
-## 4. CodexOps (선택)
+## 4. Ops (선택)
 
-- `codexops/log.md` — 세션 로그(무엇을/어떻게/어떤 결과로)
-- `codexops/dashboard.md` — 누적 현황(월별/유형별)
-- `codexops/budget.md` — 시간/작업량 예산(토큰/비용은 선택)
+- `ops/log.md` — 세션 로그(무엇을/어떻게/어떤 결과로)
+- `ops/dashboard.md` — 누적 현황(월별/유형별)
+- `ops/budget.md` — 시간/작업량 예산(토큰/비용은 선택)

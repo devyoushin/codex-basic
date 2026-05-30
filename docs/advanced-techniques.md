@@ -31,5 +31,5 @@
 - 같은 문제가 다시 나오면:
   - `rules/`에 규칙 추가
   - `templates/`에 템플릿 추가
-  - `codexops/log.md`에 세션 로그 추가
+  - `ops/log.md`에 세션 로그 추가
 
