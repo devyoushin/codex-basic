@@ -6,7 +6,8 @@ Codex CLI를 레포 작업에 안정적으로 적용하기 위한 개인 학습/
 
 ## 빠른 시작
 
-- `AGENTS.md` — Codex가 이 폴더에서 따라야 할 기본 작업 규칙
+- `CLAUDE.md` — Claude/Codex가 함께 참고할 기본 작업 규칙 원본
+- `AGENTS.md -> CLAUDE.md` — Codex/agent 진입점 링크
 - `INDEX.md` — 전체 문서 목차
 - `docs/guides/codex-guide.md` — Codex CLI 핵심 개념과 표준 작업 흐름
 
@@ -16,7 +17,8 @@ Codex CLI를 레포 작업에 안정적으로 적용하기 위한 개인 학습/
 codex-basic/
 ├── README.md
 ├── INDEX.md
-├── AGENTS.md
+├── CLAUDE.md
+├── AGENTS.md -> CLAUDE.md
 ├── docs/
 │   ├── guides/     # 학습/참고 문서
 │   ├── rules/      # 작업 규칙
